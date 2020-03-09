@@ -567,6 +567,14 @@
             }
         },
         {
+            "Key": "ae435a82-80b1-4113-bd1c-72e2b7c4a84b",
+            "Value": {
+                "id": "b4678716-d084-475b-baff-c2c97e546964",
+                "resourcePath": "sprites\\purp_arrows\\purp_arrows.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "af8c5631-6b11-432a-af01-3196c23fa361",
             "Value": {
                 "id": "a2a4c786-2db5-4722-b3ca-3c0e39674ad4",
