@@ -471,14 +471,6 @@
             }
         },
         {
-            "Key": "8de34780-22ce-4f62-b5d9-c16079510d4e",
-            "Value": {
-                "id": "169257ac-199c-4b52-8616-12367f281f2a",
-                "resourcePath": "rooms\\rm_1\\rm_1.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "90f8968a-a6f9-4754-b312-9996b07b6af0",
             "Value": {
                 "id": "28c0f7b9-a1ae-493c-aec3-cb13fdaae6ef",
@@ -756,6 +748,14 @@
                 "id": "68064282-42b9-480d-ac5d-e468b3b6f9f4",
                 "resourcePath": "options\/android\/options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e5e2c31e-9598-4710-bb62-9b52e9700779",
+            "Value": {
+                "id": "af09a841-a771-4b3e-b89a-2a2565a22c17",
+                "resourcePath": "sprites\\spr_purple_arrows_background\\spr_purple_arrows_background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
