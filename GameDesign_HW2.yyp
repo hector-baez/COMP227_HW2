@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "01f9941b-de56-42e6-99e9-e36d6af6f67a",
+            "Value": {
+                "id": "f703e19f-7f6e-4e2e-939d-6bdd56217bce",
+                "resourcePath": "rooms\\rm_win\\rm_win.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0332e845-81d9-4494-9bc7-d14d0073e1de",
             "Value": {
                 "id": "c2682ab2-482e-45a2-ac12-23ee50b9b433",
@@ -127,11 +135,11 @@
             }
         },
         {
-            "Key": "21ea00a1-08a1-4d70-90f2-97fed712cc82",
+            "Key": "2900c397-994c-443d-b8da-10942e77b36c",
             "Value": {
-                "id": "b69bec9f-9911-4648-8c49-27f385a33772",
-                "resourcePath": "objects\\obj_movingBlock\\obj_movingBlock.yy",
-                "resourceType": "GMObject"
+                "id": "171a205a-ecf6-48ec-a41e-950090050d97",
+                "resourcePath": "sprites\\sprite42\\sprite42.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -196,6 +204,14 @@
                 "id": "3b8313c6-4964-4067-b270-208677480582",
                 "resourcePath": "sprites\\spr_spike\\spr_spike.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4a189c44-5312-410b-9a88-71d39ce969c9",
+            "Value": {
+                "id": "1f848d55-736c-4e52-ad8d-8d23c60604ba",
+                "resourcePath": "objects\\obj_win\\obj_win.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -474,7 +490,7 @@
             "Key": "85cc301f-236f-4cc2-933d-0a2febe56d5e",
             "Value": {
                 "id": "a77d547a-ee92-4681-abcc-dfc361ab9a03",
-                "resourcePath": "rooms\\rm_hector\\rm_hector.yy",
+                "resourcePath": "rooms\\rm_3\\rm_3.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -804,6 +820,14 @@
                 "id": "e6792b06-efac-4328-a8d4-808609842cb3",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f7285ea2-a55c-4234-afb5-71404a12ae4b",
+            "Value": {
+                "id": "d3d45cf2-086f-4718-91ac-785b6447f4bf",
+                "resourcePath": "fonts\\fnt_win\\fnt_win.yy",
+                "resourceType": "GMFont"
             }
         },
         {
