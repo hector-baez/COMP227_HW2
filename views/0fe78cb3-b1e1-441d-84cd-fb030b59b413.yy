@@ -10,8 +10,12 @@
         "091d097b-4c5b-4806-87b2-137f6f2e9a9b",
         "af8c5631-6b11-432a-af01-3196c23fa361",
         "74c550a3-61b7-4dcb-8183-926c779264a0",
+<<<<<<< Updated upstream
         "70b5e0cf-e584-4f1e-bacc-ac141176e4ad",
         "e5e2c31e-9598-4710-bb62-9b52e9700779"
+=======
+        "70b5e0cf-e584-4f1e-bacc-ac141176e4ad"
+>>>>>>> Stashed changes
     ],
     "filterType": "GMSprite",
     "folderName": "background",
