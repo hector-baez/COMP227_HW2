@@ -10,7 +10,8 @@
         "767e761e-bc2e-4ed9-bdaf-65537acf4963",
         "f83661c3-2962-46af-8876-8c8e7e56e925",
         "e6eb3d9d-be5d-4054-98a3-9b295886145c",
-        "7bd56011-724e-4e36-8099-b738008a0e5e"
+        "7bd56011-724e-4e36-8099-b738008a0e5e",
+        "5eaaeb85-b1a6-4697-889f-9c544056318a"
     ],
     "filterType": "GMSprite",
     "folderName": "Pink Man",
