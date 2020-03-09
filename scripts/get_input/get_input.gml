@@ -1,5 +1,3 @@
-///@description 
-
 key_right = keyboard_check(vk_right);
 key_left = keyboard_check(vk_left);
 //attack = keyboard_check_pressed(vk_up);
@@ -15,3 +13,5 @@ keyboard_set_map(ord("S"), vk_down);
 keyboard_set_map(ord("D"), vk_right);
 keyboard_set_map(vk_enter, vk_space);
 keyboard_set_map(vk_up, vk_space);
+
+ 

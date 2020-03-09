@@ -90,11 +90,13 @@ if has_control {
 		onground = place_meeting(x, y+groundbuffer, obj_block);
 		if (onground) {
 			jumpbuffer = 10;
+			wall_jumped = false;
 		}
 
 		if (vspeed_ < 0) && (!input.key_jump_held) {
 			vspeed_ = max(vspeed, -3);
 		}
+		
 
 		vspeed_ = clamp(vspeed_, -max_vspeed_, max_vspeed_);
 
@@ -115,7 +117,23 @@ if has_control {
 #endregion
 
 }
+/*if wall_jumped = false {
+	if (input.key_jump) && (place_meeting(x+1,y,obj_block)) || place_meeting(x-1,y,obj_block) 
+{
+	sprite_index = spr_pinkman_walljump;
+	image_speed = 0.5;
+    jumpbuffer = 0;
+	vspeed_ = jumpspeed;
+	wall_jumped = true;
+	
+	if (input.key_left_held || input.key_right_held) {
+		vspeed_ = 0;
+	}
+}
 
+}
+
+*/
 if global.points <= 0 
 	{
 		room_goto(rm_gameover);

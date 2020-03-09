@@ -1,5 +1,5 @@
 {
-    "id": "e9f22f61-28ec-40d4-b35a-baad93b43a3f",
+    "id": "abe1d776-eccb-4c3c-a3b9-7e5375e39d65",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "get_input",

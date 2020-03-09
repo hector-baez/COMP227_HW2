@@ -35,6 +35,9 @@ groundbuffer = 3;
 jumpspeed = -10;
 jumpbuffer = 10;
 
+
 // image speeds
 idle_speed = 0.5;
 run_speed = 2;
+
+
