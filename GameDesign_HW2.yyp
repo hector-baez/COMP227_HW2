@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "171fa0b6-421e-4770-91d7-4cbb054a0edc",
+            "Value": {
+                "id": "e22798e4-68e5-4f5e-af61-1cf9416847ca",
+                "resourcePath": "fonts\\fnt_splash\\fnt_splash.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "1d66376f-5c50-4d0a-a2d5-f0892d139780",
             "Value": {
                 "id": "57c9844f-7fdf-4e6a-8965-4334d196b82d",
@@ -348,6 +356,14 @@
                 "id": "d5150f3f-236b-42fb-a0ad-b2fd80c77298",
                 "resourcePath": "sprites\/spr_purple_background\/spr_purple_background.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "73941156-a3c6-43ed-afe8-07aeab734846",
+            "Value": {
+                "id": "4e26e4b8-f77c-4d63-92e3-8b16c738208c",
+                "resourcePath": "objects\\obj_splash\\obj_splash.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -652,6 +668,14 @@
                 "id": "3fe7bedb-a123-4d51-b09d-447511b223e6",
                 "resourcePath": "sprites\\spr_goldchest_withlock\\spr_goldchest_withlock.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d72b24ab-8967-499a-aa95-cb21cb5186d8",
+            "Value": {
+                "id": "c9f22562-bb90-4c82-aca1-d55b619f1171",
+                "resourcePath": "rooms\\rm_splash\\rm_splash.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
