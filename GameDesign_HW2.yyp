@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "4cc7bbe9-ea15-427c-a38f-6447a00c9512",
+            "Value": {
+                "id": "e4b4ec23-b4bf-49da-8a4e-98621f293757",
+                "resourcePath": "fonts\\fnt_splash\\fnt_splash.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "5109c26a-bd46-4b07-9a43-a7012fe481b0",
             "Value": {
                 "id": "56f1b35f-2eb4-41da-8dab-49b47da7a42e",
