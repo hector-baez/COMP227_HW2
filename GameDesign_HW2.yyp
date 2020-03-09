@@ -122,7 +122,7 @@
             "Key": "21ea00a1-08a1-4d70-90f2-97fed712cc82",
             "Value": {
                 "id": "b69bec9f-9911-4648-8c49-27f385a33772",
-                "resourcePath": "objects\/obj_movingBlock\/obj_movingBlock.yy",
+                "resourcePath": "objects\\obj_movingBlockh\\obj_movingBlockh.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -458,7 +458,7 @@
             "Key": "85cc301f-236f-4cc2-933d-0a2febe56d5e",
             "Value": {
                 "id": "a77d547a-ee92-4681-abcc-dfc361ab9a03",
-                "resourcePath": "rooms\/rm_hector\/rm_hector.yy",
+                "resourcePath": "rooms\\rm_hector\\rm_hector.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -636,6 +636,14 @@
                 "id": "52489565-909b-49da-b3bb-b055c1025b87",
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cdb35ad7-4668-4f4c-a8ba-7958dcb15e7e",
+            "Value": {
+                "id": "6ce53704-8cea-4d40-ba8f-edc06e092451",
+                "resourcePath": "objects\\obj_movingBlockv\\obj_movingBlockv.yy",
+                "resourceType": "GMObject"
             }
         },
         {

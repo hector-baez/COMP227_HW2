@@ -55,11 +55,13 @@ if has_control {
 
 		// checks if an object is colliding with another object
 		if (place_meeting(x+hspeed_, y, obj_block)) {
+			if (place_meeting(x+hspeed_, y, obj_movingBlockv)) {
+				vspeed = obj_movingBlockv.vspeed;
+			}
 			speed_dir = sign(hspeed_); // -1, 1, 0
 			// loop through to see if adding the speed_dir
 			// would create collision
 			// if not, move 1 on that direction at a time
-	
 			while (!place_meeting(x+speed_dir, y, obj_block)) {
 				x += speed_dir;
 			}
